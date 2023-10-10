@@ -1,4 +1,4 @@
-using BirthdaySurveyApp.Models;
+using BirthdaySurveyApp.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
